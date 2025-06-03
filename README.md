@@ -14,7 +14,7 @@ Only for gathering homework
 ### ✅ 方法一：GitHub 网页直接提交（推荐，不用安装 Git）
 
 1. 打开本仓库页面，点击右上角 `Fork`（派生到你自己的账号）
-2. 在你 Fork 后的仓库中，进入 `homeworkX/` 文件夹（或指定目录）
+2. 在你 Fork 后的仓库中
 3. 点击 `Add file` → `Upload files`
 4. 选择你的 PDF 文件上传，填写提交信息，如 “添加xx的作业”
 5. 点击绿色按钮 `Commit changes`
